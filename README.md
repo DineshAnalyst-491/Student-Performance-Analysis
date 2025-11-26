@@ -134,4 +134,4 @@ Jupyter Notebook
 Dinesh S
 GitHub: https://github.com/DineshAnalyst-491
 
-Email:imdineshanalyst2001.com
+Email: imdineshanalyst2001@gmail.com.com
